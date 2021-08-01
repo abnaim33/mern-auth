@@ -7,7 +7,7 @@
     "start": "node server.js",
     "server": "nodemon server.js"
   },
-  "author": "Ritul",
+  "author": "Naim",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
